@@ -1,7 +1,7 @@
 
 
 ## Description:
-This Terraform script will deploy a single region highly available 3 tier environment contaning EC2, RDS, VPC, ELB, ASG.
+This Terraform script will deploy a single region highly available 3 tier environment contaning EC2, RDS, VPC, ELB, ASG in Amazon cloud.
 
 # Before you begin:
 Create SSH Key-Pairs:
